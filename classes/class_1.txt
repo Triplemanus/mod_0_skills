@@ -1,0 +1,15 @@
+Food Ordering App Classes
+
+class Food_Category
+Attributes:
+  appetizer (string)
+  entree (string)
+  dessert (string)
+  beverage (string)
+  kid (string)
+
+Methods:
+  add_category
+  delete_category
+  edit_category
+  count_category

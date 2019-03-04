@@ -1,0 +1,22 @@
+Food Ordering App Classes
+
+class Decor
+
+Attributes:
+
+ style (string)
+ table (array)
+ floor (string)
+ lighting (array)
+ chair (array)
+ electronics (array)
+ ceiling (string)
+
+Methods:
+
+ add_table
+ update_lighting
+ delete_chair
+ add_chair
+ add_electronics
+ total_chair

@@ -1,0 +1,21 @@
+Food Ordering App Classes
+
+class Store
+
+Attributes:
+
+  location (string)
+  openingTime (datetime)
+  closingTime (datetime)
+  squareFootage (integer)
+  storeNumber (integer)
+  type (string)
+
+
+Methods:
+
+  update_opening_time
+  update_closing_time
+  add_new
+  delete
+  update_location
